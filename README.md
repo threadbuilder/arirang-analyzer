@@ -1,3 +1,5 @@
 # arirang-analyzer
 한글 분석기
-작성중 .. 
+
+참조사이트 ( http://cafe.naver.com/korlucene )
+
