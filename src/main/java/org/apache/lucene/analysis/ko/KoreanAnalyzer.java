@@ -103,9 +103,10 @@ public class KoreanAnalyzer extends StopwordAnalyzerBase {
     tok = new StopFilter(tok, stopwords);
     return new TokenStreamComponents(src, tok) {
       @Override
-      protected void setReader(final Reader reader) {
+      protected void setReader(final Reader reader){
+//      protected void setReader(final Reader reader) throws IOException {
 //        src.setMaxTokenLength(KoreanAnalyzer.this.maxTokenLength);
-        super.setReader(reader);
+          super.setReader(reader);
       }
     };
   }

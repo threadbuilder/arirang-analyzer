@@ -22,7 +22,7 @@ public class TestKoreanAnalyzer extends TestCase {
 	    ts.reset();
 	    while (ts.incrementToken()) {
 	      actual.append(termAtt.toString());
-	      actual.append(' ');
+	      actual.append('-');
 	    }
 	    System.out.println(actual);
 
