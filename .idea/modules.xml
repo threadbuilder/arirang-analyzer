@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.quickhero.lucene.analyzer.kr.iml" filepath="$PROJECT_DIR$/.idea/modules/com.quickhero.lucene.analyzer.kr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.quickhero.lucene.analyzer.kr_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.quickhero.lucene.analyzer.kr_main.iml" group="com.quickhero.lucene.analyzer.kr" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.quickhero.lucene.analyzer.kr_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.quickhero.lucene.analyzer.kr_test.iml" group="com.quickhero.lucene.analyzer.kr" />
+    </modules>
+  </component>
+</project>
